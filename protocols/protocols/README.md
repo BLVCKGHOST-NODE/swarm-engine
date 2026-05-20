@@ -1,3 +1,0 @@
-# PROTOCOLS
-
-Distributed communication protocols.
